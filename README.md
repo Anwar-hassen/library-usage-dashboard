@@ -2,7 +2,7 @@
 
 A Power BI dashboard and reporting template built for a government health library, as a university capstone project.
 
-![Main dashboard page](images/main-dashboard.png)
+![Main dashboard page](main-dashboard.png)
 
 ## The problem
 The library collected a lot of usage data (loans, renewals, searches, logins, reservations), but it sat in separate exported reports. Staff had no easy way to compare years or spot trends. Our sponsor asked for a clear picture of current usage and a way to repeat the reporting in future years.
@@ -23,19 +23,19 @@ Power BI, Power Query, Excel
 
 ## Dashboard pages
 **Main dashboard**
-![Main dashboard](images/main-dashboard.png)
+![Main dashboard](main-dashboard.png)
 An overview of every data source in one place.
 
 **Search and discovery**
-![Search and discovery](images/search-discovery.png)
+![Search and discovery](search-discovery.png)
 Research requests, file downloads, and how people search.
 
 **Loans and renewals**
-![Loans and renewals](images/loans-renewals.png)
+![Loans and renewals](loans-renewals.png)
 How items are borrowed and renewed, compared across years.
 
 **Logins and reservations**
-![Logins and reservations](images/logins-reservations.png)
+![Logins and reservations](logins-reservations.png)
 Who accesses the system and how reservations are made.
 
 ## What we found
